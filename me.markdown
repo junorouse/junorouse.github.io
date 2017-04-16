@@ -4,3 +4,7 @@
 
 - E-Mail: junorouse@gmail.com
 - Blog: [blog.junoim.kr](http://blog.junoim.kr)
+
+## Reported vulnerabilities and exploits (selected)
+
+- Blah Blah
